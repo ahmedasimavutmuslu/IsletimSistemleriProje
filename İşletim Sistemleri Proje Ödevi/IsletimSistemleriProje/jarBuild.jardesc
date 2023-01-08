@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/baroo/OneDrive/Masaüstü/Okul/Bilgisayar Mühendisliği/5. yarıyıl/İşletim Sistemleri/İşletim Sistemleri Proje Ödevi/proje.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/IsletimSistemleriProje/jarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=IsletimSistemleriProje/src&lt;{Main.java[Main" manifestLocation="/IsletimSistemleriProje/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=IsletimSistemleriProje/src"/>
+        <file path="/IsletimSistemleriProje/.project"/>
+        <file path="/IsletimSistemleriProje/.classpath"/>
+    </selectedElements>
+</jardesc>
